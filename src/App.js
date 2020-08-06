@@ -37,7 +37,7 @@ class App extends Component {
         super(props)
         this.state = {
             open: false,
-            salariuBaza: 1900,
+            salariuBaza: 2300,
             defaultFieldsLabel: 'Per luna',
             defaultCurrenciesLabel: 'RON',
             fieldsInfo: [
